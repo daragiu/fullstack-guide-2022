@@ -90,6 +90,7 @@ Node Package Manager (NPM) will allow you to install and manage packages via nod
 - [Python 6h Course](https://www.youtube.com/watch?v=sxTmJE4k0ho)
 - [Django 3h Course](https://www.youtube.com/watch?v=sm1mokevMWk)
 - [Django Series Solo Deployment](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+- [Django 7h Course](https://www.youtube.com/watch?v=PtQiiknWUcI)
 
 ## React.js (maybe consider Vue for Python)
 
