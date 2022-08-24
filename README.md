@@ -16,8 +16,9 @@ Here is a general roadmap of how your process should look like, I will provide y
 - JavaScript
 - Git & GitHub
 - Build a project with Git, vanilla CSS, HTML, and JS
-- Node.js & NPM
-- React.js
+- Node.js & NPM (javascript back-end)
+- Django (python back-end)
+- React.js (front-end)
 - TypeScript
 - Build a project with React.js in TypeScript
 - Express.js
@@ -26,6 +27,7 @@ Here is a general roadmap of how your process should look like, I will provide y
 - Bonus material, and projects with bonus material
 - Build your portfolio & resume
 - LC & Sending out Applications
+- NGINX / Docker / Linux Bash VIM
 
 Always remember that you need to tailor some things to what works for you. This is by no means a size fits all approach, but it will work if you follow it as closely as possible.
 
@@ -74,13 +76,18 @@ Furthermore, you have to make your projects dynamic and mobile friendly. Look up
 
 Challenge yourself, prepare to be humbled, learn, and build an AWESOME first project. Start strong!
 
-## Node.js & NPM
+## Node.js & NPM (Javascript Back-end )
 
 So far, we've made JS run in the browser, but how can we run it on our computer? That's where Node.js comes in. Node is a JavaScript runtime which allows your computer to understand and run JavaScript. All you really need to understand is that.
 
 Node Package Manager (NPM) will allow you to install and manage packages via node, which allows you to customize your project with pre-built packages and services. This one is fairly straightforward and you will naturally pick it up as you're building projects.
 
 - [Node Crash Course](https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=1s)
+
+## Django (Python Back-end) added by me
+
+- [Python 6h Course](https://www.youtube.com/watch?v=sxTmJE4k0ho)
+- [Django 3h Course](https://www.youtube.com/watch?v=sm1mokevMWk)
 
 ## React.js
 
@@ -137,7 +144,7 @@ Congratulations, you now know everything you need to build your first full stack
 
 This is incredibly important if you want to stand out, here is some extra stuff you can learn to take your full-stack projects to the next level.
 
-
+- [NGINX / Docker / Linux Bash VIM] - Gets you going on your own server and deploy your apps in dockers + going with VIM on Linux for those hacker vibes.
 - [Material UI](https://mui.com/) - A library of components that makes building frontend projects easy and uniform. Highly sought after in candidates and I use it on each and every single one of my projects.
 - [Redux & Redux Toolkit](https://www.youtube.com/watch?v=iBUJVy8phqw) - A state management library that makes managing global state in your projects really easy. Strongly recommended.
 - [React Router](https://www.youtube.com/watch?v=Law7wfdg_ls) - A library that helps manage pages on your apps.
