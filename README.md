@@ -24,6 +24,7 @@ Here is a general roadmap of how your process should look like, I will provide y
 - Express.js
 - MongoDB & PostgreSQL
 - Build a full-stack project with either MERN or PERN (or BOTH)
+-  Build a full-stack project with React + Django + Postgresql
 - Bonus material, and projects with bonus material
 - Build your portfolio & resume
 - LC & Sending out Applications
@@ -88,8 +89,9 @@ Node Package Manager (NPM) will allow you to install and manage packages via nod
 
 - [Python 6h Course](https://www.youtube.com/watch?v=sxTmJE4k0ho)
 - [Django 3h Course](https://www.youtube.com/watch?v=sm1mokevMWk)
+- [Django Series Solo Deployment](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
-## React.js
+## React.js (maybe consider Vue for Python)
 
 Congrats, you've reached the big boy stuff. React is the single BIGGEST JS framework and the most widely sought out skill if you are looking for either a front end or full stack job. It is CRITICAL that you become REALLY good with React. Thankfully, this scrimba course IS A PERFECT FREE LEARNING ENVIRONMENT for React. Go through it step by step as the instructor says. This is how I learned React and became VERY good at it.
 
@@ -140,6 +142,10 @@ Congratulations, you now know everything you need to build your first full stack
 - STRONGLY RECOMMENDED: Built 2 different projects with both (one MERN one PERN).
 - [Here is an EXCELLENT tutorial project](https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm), again from Traversy Media. You don't need to use every technology he uses, but they are covered in the Bonus Material section so you should try to learn them.
 
+## Build a full-stack project with React + Django + Postgresql
+
+- [Here is an EXCELLENT tutorial project]([https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm](https://www.youtube.com/watch?v=JD-age0BPVo&list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j))
+- 
 ## Bonus Material
 
 This is incredibly important if you want to stand out, here is some extra stuff you can learn to take your full-stack projects to the next level.
